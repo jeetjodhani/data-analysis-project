@@ -1,5 +1,6 @@
- walmart_sales_analysis
-Walmart Sales & Profit Analysis Dashboard
+# Walmart_sales_analysis
+
+
 1. -📝 Short Description /purpose
    To analyze Walmart retail sales data using Power BI to identify sales and profit trends across customers, regions, states, and products, while providing interactive insights for better business analysis and decision-making.
 

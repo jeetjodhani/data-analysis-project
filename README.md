@@ -29,5 +29,5 @@ Monitor performance using Sales, Profit, and Margin KPIs.
 
  5. -Screenshots
     Show dashboard looks like :
-    https://github.com/jeetjodhani/data-analysis-project/blob/main/walmart_sales_analysis.png
+   ![Walmart Sales Dashboard](./walmart_sales_analysis.png)
     
